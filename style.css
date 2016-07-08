@@ -1,0 +1,39 @@
+h1{
+  font-size: 6em;
+  color: yellow !important;
+}
+
+h4{
+  font-weight: bold;
+  text-transform: uppercase;
+  color: red;
+}
+h5{
+  font-size: 1.2em;
+  font-weight:Bold;
+  margin: 10px 0px 10px 35px;
+}
+.burgerType{
+  font-size: 4em;
+  font-weight: bold;
+  color: yellow;
+}
+.burgerProp{
+  color:blue;
+  text-transform: ;
+}
+body{
+  margin: 8em 2em 4em 2em;
+  font-family: candara;
+  background-color: red;
+}
+
+.burgerlist{
+  
+  font-family: calibri;
+  border-style: solid;
+  border-width: 5px;
+  height: 11.5em;
+  background-color: white;
+ 
+}
